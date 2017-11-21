@@ -16,7 +16,7 @@ HPAlertShow class to display success or failure state with fully customisable cu
 
 **Usage**
 - Drag & drop HPAlertShow.swift into your project
-- Code to utilize  ( Check attached code )
+- Code to utilize  
 
 ```
 override func viewWillAppear(_ animated: Bool) {
